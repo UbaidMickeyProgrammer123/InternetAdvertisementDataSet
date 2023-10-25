@@ -15,7 +15,7 @@ To ensure the reliability of my predictions, I employed a **10-fold cross-valida
 With predictions in place, I introduced a **confusion matrix** and calculated model accuracy. These metrics allowed me to critically evaluate the performance of my models. The confusion matrix illuminated the strengths and weaknesses of my predictions, while accuracy provided a quantifiable measure of model performance.
 
 **5. Data Relationship Exploration:**
-Lastly, I delved into the realm of data relationships by conducting** Spearman correlation analysis**. This allowed me to grasp the strength and direction of relationships between attributes, notably focusing on AA1 and AA2. It was like peering into the core of the data and uncovering its underlying structure.
+Lastly, I delved into the realm of data relationships by conducting **Spearman correlation analysis**. This allowed me to grasp the strength and direction of relationships between attributes, notably focusing on AA1 and AA2. It was like peering into the core of the data and uncovering its underlying structure.
 
 Through these accomplishments, my project provided me with a comprehensive hands-on experience in the field of data science. It was a voyage of discovery, where I applied statistical techniques, programming skills, and machine learning algorithms to real-world data. The project exemplified the importance of data visualization, model validation, and the ethical considerations surrounding data usage. Moreover, it showcased the relevance of data science in making informed business decisions.
 
