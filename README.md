@@ -1,5 +1,5 @@
 # InternetAdvertisementDataSet
-In my **data science project**, I embarked on a journey of data exploration and analysis. **My primary objective** was to unravel the intricacies of** internet advertising data** and extract meaningful insights that could inform strategic decisions. Through this project, I achieved the following:
+In my **data science project**, I embarked on a journey of data exploration and analysis. **My primary objective** was to unravel the intricacies of **internet advertising data** and extract meaningful insights that could inform strategic decisions. Through this project, I achieved the following:
 
 
 **1. Data Visualization:**
